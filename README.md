@@ -32,24 +32,35 @@ An AI-powered chatbot for restaurant management, handling reservations, orders, 
 
 # 🌱 Currently Learning:
 ***Advanced Machine*** Learning techniques
+
 ***Web Security*** best practices
 
 # 🏆 Achievements:
 Developed and deployed an AI-powered chatbot for restaurant management.
+
 Created multiple interactive websites including a birthday website.
+
 Contributed to open-source projects in web development and AI.
+
 Award as a motivational speaker.
 
 # 🎨 Hobbies:
 Exploring AI & Machine Learning: Experimenting with new AI models.
+
 Photography: Capturing moments with my camera.
+
 Reading: Tech books, self-improvement, and novels.
+
 Traveling: Exploring new places and cultures.
 
 # 🌱 Fun Facts About Me:
 I'm always learning and experimenting with new technologies.
+
 I love collaborating on innovative projects and sharing knowledge.
+
 Coffee and tech talks are my ideal way to unwind! ☕
 
+
 #📬 Connect with Me
+
 Email: hrranger555@gmail.com
