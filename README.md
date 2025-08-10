@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hafsa!
 
-I'm a passionate **Full Stack Developer** with expertise in **Python**, **Flask**, **Dialogflow**, and **MySQL**. I love building **AI-powered solutions** and creating **intuitive web applications**.  
+I'm a passionate **Full Stack Developer/AI Agent/Data Scienctist** with expertise in **Python**, **Flask**, **Dialogflow**, and **MySQL**. I love building **AI-powered solutions** and creating **intuitive web applications**.  
 Let’s work together and build something amazing! 🚀
 
 > **"Code is like humor. When you have to explain it, it’s bad."**  
@@ -17,14 +17,15 @@ class Hafsa:
     def say_hi(self):
         return "Hi, I'm Hafsa 👋 Let's build something cool together!"
 ```
-# 🔧 Technologies & Tools
-Python
-Flask
-MySQL
-Dialogflow
-JavaScript
-Bootstrap
-React
+## 🛠 Tech Stack:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/-Dialogflow-FF9800?logo=dialogflow&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
 
 #🚀 Featured Projects
 > ***Restaurant Chatbot***
@@ -34,6 +35,11 @@ An AI-powered chatbot for restaurant management, handling reservations, orders, 
 ***Advanced Machine*** Learning techniques
 
 ***Web Security*** best practices
+
+## 📊 GitHub Stats:
+![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 
 # 🏆 Achievements:
 Developed and deployed an AI-powered chatbot for restaurant management.
@@ -64,3 +70,18 @@ Coffee and tech talks are my ideal way to unwind! ☕
 #📬 Connect with Me
 
 Email: hrranger555@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yourusername/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=google-chrome)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-hrranger555%40gmail.com-red?logo=gmail)](mailto:hrranger555@gmail.com)
+
+## 🤝 Let's Collaborate!
+I'm open to collaborating on:
+- AI-powered projects
+- Web apps with Python & Flask
+- Open-source contributions
+
+💌 **Reach me at:** [hrranger555@gmail.com](mailto:hrranger555@gmail.com)  
+🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+
+
